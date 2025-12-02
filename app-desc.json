@@ -5,6 +5,9 @@
   "NeteaseMusic": "听歌",
   "QQ音乐": "听歌",
   "QQMusic": "听歌",
+  "Splayer": "听歌",
+  "chrome": "冲浪",
+  "Chrome": "冲浪",
   "Google Chrome": "冲浪",
   "Google Chrome Canary": "调试",
   "QQ": "水群",
@@ -37,5 +40,6 @@
   "Cursor": "⌘ + K",
   "Epic": "看有没有什么神秘小游戏白嫖",
   "Lightroome": "试图使直出变好看",
-  "iPhone镜像": "玩手机"
+  "iPhone镜像": "玩手机",
+  "mailmaster": "翻找邮箱"
 }
